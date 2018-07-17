@@ -16,9 +16,10 @@
             <td><javatime:format value="${meal.dateTime}" style="MS" /></td>
             <td><c:out value="${meal.description}"/></td>
             <td><c:out value="${meal.calories}"/></td>
+            <td><a href="meals?action=delete&id=${meal.id}">Delete</a></td>
+            <td><a href="meals?action=update&id=${meal.id}">Update</a></td>
         </tr>
     </c:forEach>
-
 </table>
 
 </body>
