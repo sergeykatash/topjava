@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a89284f68d00462ca59495d1c487edbb)](https://www.codacy.com/app/sergeykatash/topjava?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sergeykatash/topjava&amp;utm_campaign=Badge_Grade)
 Java Enterprise Online Project
 ===============================
 
